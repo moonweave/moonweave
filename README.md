@@ -1,5 +1,7 @@
 # moonweave
 
+<img align="right" width="112" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-avatar-512.png" alt="moonweave mark">
+
 I build research workflow tools and AI-assisted developer systems.
 
 ![Research automation](https://img.shields.io/badge/research_automation-0969da?style=flat-square)

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">moonweave avatar</title>
+  <desc id="desc">A crescent moon with two woven paths representing systems and research.</desc>
+  <defs>
+    <radialGradient id="bg" cx="35%" cy="26%" r="82%">
+      <stop offset="0" stop-color="#1d2b53"/>
+      <stop offset="0.54" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#05070f"/>
+    </radialGradient>
+    <linearGradient id="weaveA" x1="227" y1="735" x2="814" y2="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="0.5" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <linearGradient id="weaveB" x1="276" y1="304" x2="782" y2="746" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2cc60"/>
+      <stop offset="0.55" stop-color="#39c5cf"/>
+      <stop offset="1" stop-color="#2ea043"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <circle cx="512" cy="512" r="356" fill="none" stroke="#8b949e" stroke-width="16" opacity="0.18"/>
+  <circle cx="512" cy="512" r="284" fill="none" stroke="#2dd4bf" stroke-width="8" opacity="0.14"/>
+
+  <path d="M641 216c-129 20-227 132-227 267 0 149 121 270 270 270 41 0 79-9 114-25-59 79-153 129-259 129-178 0-323-144-323-323 0-158 112-289 262-318 55-11 109-9 163 0z" fill="#f0f6fc"/>
+  <path d="M641 216c-129 20-227 132-227 267 0 54 16 104 43 146-72-34-122-107-122-192 0-111 84-202 192-211 38-3 75-5 114-10z" fill="#2f81f7" opacity="0.13"/>
+
+  <path d="M234 686c102-85 191-93 278-46 87 47 171 40 276-72" fill="none" stroke="url(#weaveA)" stroke-width="30" stroke-linecap="round"/>
+  <path d="M252 576c91 80 175 92 259 45 85-48 170-43 272 67" fill="none" stroke="url(#weaveB)" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+  <path d="M244 758c100-45 178-48 252-18 78 32 158 17 262-66" fill="none" stroke="#a371f7" stroke-width="12" stroke-linecap="round" opacity="0.65"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="234" cy="686" r="24" fill="#2dd4bf"/>
+    <circle cx="512" cy="640" r="20" fill="#2f81f7"/>
+    <circle cx="788" cy="568" r="24" fill="#a371f7"/>
+    <circle cx="252" cy="576" r="18" fill="#f2cc60"/>
+    <circle cx="783" cy="688" r="18" fill="#2ea043"/>
+  </g>
+</svg>

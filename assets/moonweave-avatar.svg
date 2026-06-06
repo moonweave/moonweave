@@ -1,41 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
   <title id="title">moonweave avatar</title>
-  <desc id="desc">A woven MW monogram connecting systems and research colors.</desc>
-  <defs>
-    <radialGradient id="bg" cx="36%" cy="24%" r="84%">
-      <stop offset="0" stop-color="#1d2b53"/>
-      <stop offset="0.6" stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#05070f"/>
-    </radialGradient>
-    <linearGradient id="systems" x1="188" y1="760" x2="842" y2="250" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2dd4bf"/>
-      <stop offset="0.56" stop-color="#2f81f7"/>
-      <stop offset="1" stop-color="#a371f7"/>
-    </linearGradient>
-    <linearGradient id="research" x1="184" y1="272" x2="838" y2="770" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f2cc60"/>
-      <stop offset="0.56" stop-color="#39c5cf"/>
-      <stop offset="1" stop-color="#2ea043"/>
-    </linearGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="15" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="1024" height="1024" rx="224" fill="url(#bg)"/>
-  <circle cx="512" cy="512" r="344" fill="none" stroke="#303d68" stroke-width="18"/>
-  <path d="M210 700V324l176 240 126-240 126 240 176-240v376" fill="none" stroke="url(#systems)" stroke-width="72" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M210 324v376l176-240 126 240 126-240 176 240V324" fill="none" stroke="url(#research)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-  <path d="M512 324v376" stroke="#e6edf3" stroke-width="18" stroke-linecap="round" opacity="0.82"/>
-  <g filter="url(#glow)">
-    <circle cx="210" cy="324" r="26" fill="#f2cc60"/>
-    <circle cx="210" cy="700" r="30" fill="#2dd4bf"/>
-    <circle cx="512" cy="324" r="26" fill="#2f81f7"/>
-    <circle cx="512" cy="700" r="26" fill="#39c5cf"/>
-    <circle cx="814" cy="324" r="30" fill="#a371f7"/>
-    <circle cx="814" cy="700" r="26" fill="#2ea043"/>
-  </g>
+  <desc id="desc">A restrained woven MW monogram for Moonweave.</desc>
+  <rect width="1024" height="1024" fill="#f7f8fa"/>
+  <circle cx="512" cy="512" r="352" fill="#ffffff" stroke="#d9dee8" stroke-width="18"/>
+  <path d="M238 674V350l150 224 124-224 124 224 150-224v324" fill="none" stroke="#1f2937" stroke-width="52" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M238 350v324l150-224 124 224 124-224 150 224V350" fill="none" stroke="#667085" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" opacity="0.78"/>
+  <path d="M512 350v324" stroke="#2f5f9f" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="238" cy="350" r="14" fill="#2f5f9f"/>
+  <circle cx="238" cy="674" r="14" fill="#2f5f9f"/>
+  <circle cx="512" cy="350" r="14" fill="#2f5f9f"/>
+  <circle cx="512" cy="674" r="14" fill="#2f5f9f"/>
+  <circle cx="786" cy="350" r="14" fill="#2f5f9f"/>
+  <circle cx="786" cy="674" r="14" fill="#2f5f9f"/>
 </svg>

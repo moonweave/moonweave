@@ -1,8 +1,9 @@
 <p align="center">
-  <img width="118" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-avatar-512.png" alt="Moonweave">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-wordmark-white.svg">
+    <img width="520" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-wordmark-black.svg" alt="Moonweave">
+  </picture>
 </p>
-
-<h1 align="center">Moonweave</h1>
 
 <p align="center">
   <strong>Researcher &amp; Developer</strong><br>

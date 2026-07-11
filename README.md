@@ -1,34 +1,59 @@
-# moonweave
+<p align="center">
+  <img width="118" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-avatar-512.png" alt="Moonweave">
+</p>
 
-<img align="right" width="112" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-avatar-512.png" alt="moonweave mark">
+<h1 align="center">Moonweave</h1>
 
-I build research workflow tools and AI-assisted developer systems.
+<p align="center">
+  <strong>Researcher &amp; Developer</strong><br>
+  Building thoughtful tools for research, creative work, and intelligent systems.
+</p>
 
-![Research automation](https://img.shields.io/badge/research_automation-0969da?style=flat-square)
-![Agent systems](https://img.shields.io/badge/agent_systems-238636?style=flat-square)
-![Developer tools](https://img.shields.io/badge/developer_tools-6f42c1?style=flat-square)
+<p align="center">
+  <a href="https://github.com/Moonweave-Research">Research</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Moonweave-Systems">Systems</a>
+  &nbsp;·&nbsp;
+  <a href="https://phd-ai-log.pages.dev">Website</a>
+</p>
 
-## Project Spaces
+<p align="center"><sub>MoonYoung Choi</sub></p>
 
-| Space | Focus |
-| --- | --- |
-| [Moonweave Systems](https://github.com/Moonweave-Systems) | Agentic coding infrastructure, decision kernels, workflow checks, and developer automation. |
-| [Moonweave Research](https://github.com/Moonweave-Research) | Evidence-backed research workflows, citation verification, Zotero tooling, figure workflows, and local knowledge systems. |
+---
 
-## Start Here
+### Selected work
 
-| Project | Space | Why it exists |
-| --- | --- | --- |
-| [zotero-reading-flow](https://github.com/Moonweave-Research/zotero-reading-flow) | Research | Turn a Zotero library into a reading dashboard. |
-| [ref-verify](https://github.com/Moonweave-Research/ref-verify) | Research | Verify references before they become manuscript claims. |
-| [groundcheck](https://github.com/Moonweave-Research/groundcheck) | Research | Ground research-agent output in fetched evidence. |
-| [decision-kernel](https://github.com/Moonweave-Systems/decision-kernel) | Systems | Keep coding agents honest about decisions, drift, and done-ness. |
-| [harness-check](https://github.com/Moonweave-Systems/harness-check) | Systems | Audit local Claude Code setup before trusting automation. |
+| | Project | What it does |
+|:---:|---|---|
+| ◐ | **[Figure Agent](https://github.com/Moonweave-Research/figure-agent)** | Creates and reviews publication-ready scientific diagrams. |
+| ◒ | **[FigOps](https://github.com/Moonweave-Research/figops)** | Runs reproducible data, plotting, and figure workflows. |
+| ◑ | **[Ref Verify](https://github.com/Moonweave-Research/ref-verify)** | Checks references and citation support before submission. |
+| ◓ | **[ORRO](https://github.com/Moonweave-Systems/ORRO)** | A product layer for observable, reviewable agent workflows. |
+| ◐ | **[Manuscript Forge](https://github.com/moonweave/manuscript-forge)** | Turns research notes into validated Word submission bundles. |
+| ◒ | **[Card Diagram Layout](https://github.com/moonweave/card-diagram-layout)** | Lays out semantic diagrams with deterministic rendering and QA. |
 
-## Working Themes
+### Two spaces, one practice
 
-- Agent workflows that expose uncertainty and verify outcomes
-- Research tools that keep citations, figures, and paper context auditable
-- Local-first systems for personal and lab knowledge work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Moonweave-Research">Moonweave Research</a></h3>
+      Tools for reading, references, figures, manuscripts, and research knowledge.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Moonweave-Systems">Moonweave Systems</a></h3>
+      Developer systems for agent workflows, decisions, execution, and review.
+    </td>
+  </tr>
+</table>
 
-The personal account is the entry point. Active projects are grouped under the two organizations above.
+<details>
+<summary><strong>한국어 소개</strong></summary>
+
+연구자이자 개발자인 **MoonYoung Choi**입니다. 연구 과정에서 반복되는 불편을 발견하고, 이를 작고 유용한 도구와 시스템으로 만드는 일을 합니다. 연구 도구는 [Moonweave Research](https://github.com/Moonweave-Research), 개발자·에이전트 시스템은 [Moonweave Systems](https://github.com/Moonweave-Systems)에서 관리합니다.
+
+</details>
+
+<p align="center">
+  <sub>Make the difficult parts of research feel lighter.</sub>
+</p>

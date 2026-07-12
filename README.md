@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-wordmark-white.svg">
-    <img width="520" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-wordmark-black.svg" alt="Moonweave">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-wordmark-white.png">
+    <img width="520" src="https://raw.githubusercontent.com/moonweave/moonweave/main/assets/moonweave-wordmark-black.png" alt="Moonweave">
   </picture>
 </p>
 

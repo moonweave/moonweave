@@ -13,8 +13,6 @@
   <a href="https://github.com/Moonweave-Research">Research</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Moonweave-Systems">Systems</a>
-  &nbsp;·&nbsp;
-  <a href="https://phd-ai-log.pages.dev">Website</a>
 </p>
 
 <p align="center">
